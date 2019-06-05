@@ -3,5 +3,5 @@ Such examples as glass lenses, parabolic reflectors are considered.
 Numerical experiments show that discrete gradient algorithm converges much faster than 
 greedy algorithm for all considered cases. 
 
-Mainly, this is development of project for classes of Numerical Linear Algebra and Optimization at Skoltech, 2017-2018.
+Mainly, this is following development of project for classes of Numerical Linear Algebra and Optimization at Skoltech, 2017-2018.
 Egor Nuzhin, Iurii Minin, Alexey Boyko (TA of NLA)

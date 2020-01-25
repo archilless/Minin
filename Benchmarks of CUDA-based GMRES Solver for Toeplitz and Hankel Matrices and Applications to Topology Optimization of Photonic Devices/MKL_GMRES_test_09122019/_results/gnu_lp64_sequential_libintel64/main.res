@@ -1,4 +1,0 @@
-
-
-Successful exit from MKL
-

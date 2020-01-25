@@ -1,1 +1,0 @@
-make libintel64 && make libintel64 && make libintel64 && make libintel64 && make libintel64 && make libintel64 && make libintel64 && make libintel64 && make libintel64 && make libintel64 && bash compile_2.sh
